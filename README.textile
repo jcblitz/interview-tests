@@ -1,0 +1,7 @@
+h1. What is this?
+
+My attempt at putting together some tests to give during interviews. I hate having candidates whiteboard problems for a number of reasons.
+
+h1. Who is it targeted at?
+
+Java interview candidates at various levels.
