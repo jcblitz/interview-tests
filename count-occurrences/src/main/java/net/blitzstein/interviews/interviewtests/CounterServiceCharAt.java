@@ -4,15 +4,15 @@ package net.blitzstein.interviews.interviewtests;
  *
  * @author Jared Blitzstein <blitzsteinj@gsicommerce.com>
  */
-public class CounterService {
+public class CounterServiceCharAt {
     private char subject;
 
-    public CounterService(char subject) {
+    public CounterServiceCharAt(char subject) {
         this.subject = subject;
     }
 
 
-    int getOccurances(int i) {
+    int getOccurrences(int i) {
         String currentInstance = String.valueOf(i);
         int occurances = 0;
 
